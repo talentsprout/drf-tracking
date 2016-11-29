@@ -107,3 +107,10 @@ $ mkdocs build
 [travis]: http://travis-ci.org/aschn/drf-tracking?branch=master
 [pypi-version]: https://img.shields.io/pypi/v/drf-tracking.svg
 [pypi]: https://pypi.python.org/pypi/drf-tracking
+
+## Note
+
+Branched to remove db_index=True on BaseAPIRequestLog so it works correctly
+
+
+
